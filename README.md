@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Michael 👋
 
-<!--
-**Mazon22/Mazon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on web, mobile, and desktop applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+- JavaScript / TypeScript
+- React / Vite
+- Node.js / Express
+- Go
+- Flutter
+- Python
+- PostgreSQL / SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **MichaelGPT** — Modern AI chat app with authentication, chat history, GROQ integration, and a responsive animated UI.
+- **Mishon** — Social platform with a single Go backend for web, Flutter Web, and mobile.
+- **Brakirator** — Siemens S7-1200 monitoring tool with charts, PDF export, and a custom installer.
+- **Gorchichnik** — Telegram moderation bot with roles, mutes, bans, anti-flood, and audit logs.
+
+## Contact
+- Discord: `mazonds`
